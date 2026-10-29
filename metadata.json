@@ -1,0 +1,6 @@
+{
+  "name": "ORBITAL — ML Satellite Task Scheduler",
+  "description": "Machine Learning-Based Task Scheduling Platform for Agile Earth Observation Satellites using Random Forest feasibility prediction and constraint-aware optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

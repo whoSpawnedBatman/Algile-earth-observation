@@ -1,0 +1,11 @@
+sample_id,target_name,sensor_type,window_start,window_end,imaging_duration,slew_time,slew_angle_deg,priority,energy_cost,storage_cost,cloud_coverage,solar_elevation_deg,base_reward,feasible
+HIST-0001,Svalbard Glacier Mass Balance,OPTICAL_HI_RES,142.5,248.0,42.0,18.5,16.2,9,24.8,11.8,11.4,48.2,192.5,1
+HIST-0002,Rotterdam Maritime Port Corridor,SAR_C_BAND,310.0,395.5,48.0,21.0,19.4,8,33.2,15.4,68.5,31.0,181.0,1
+HIST-0003,Nile Delta Agricultural Basin,MULTISPECTRAL,520.0,558.0,36.0,19.0,34.0,7,21.5,8.2,64.2,52.1,158.0,0
+HIST-0004,Atacama Solar Irradiance Array,OPTICAL_HI_RES,780.0,910.0,55.0,16.0,14.1,10,28.4,15.2,4.2,71.5,224.0,1
+HIST-0005,Sundarbans Mangrove Estuary,MULTISPECTRAL,1040.0,1115.0,44.0,24.0,22.0,6,23.9,9.6,72.8,44.0,142.0,0
+HIST-0006,Panama Canal Lock Operations,SAR_C_BAND,1310.0,1420.0,52.0,19.5,17.8,9,35.1,16.8,54.0,62.3,205.0,1
+HIST-0007,Amazon Deforestation Sector B4,MULTISPECTRAL,1620.0,1660.0,38.0,22.0,39.5,5,22.1,8.8,49.0,58.0,128.5,0
+HIST-0008,Reykjanes Geothermal Rift Zone,SAR_C_BAND,1950.0,2065.0,46.0,17.0,15.0,8,31.8,14.9,41.2,29.5,179.0,1
+HIST-0009,Ganges Alluvial Floodplain,MULTISPECTRAL,2240.0,2355.0,49.0,15.5,13.2,7,25.6,10.5,18.5,64.0,168.0,1
+HIST-0010,Malacca Strait Vessel Traffic,SAR_C_BAND,2590.0,2695.0,41.0,18.0,16.5,9,29.4,13.4,61.0,55.2,196.0,1
